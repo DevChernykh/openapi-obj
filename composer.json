@@ -1,0 +1,22 @@
+{
+    "name": "chernykh/openapi-obj",
+    "description": "Классы для описания OpenAPI спецификации в виде объектов",
+    "type": "library",
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chernykh\\OpenapiObj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Черных Никита",
+            "email": "devchernykh@ya.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
